@@ -5,6 +5,8 @@ The esplocalizer-tight design is open source and leverages the versatility of th
 
 ![Physical ESPLocalizer](https://github.com/cnlohr/esplocalizer/raw/master/hardware/ESPLocalizerDec2016.JPG)
 
+Ebay link: http://www.ebay.com/itm/112253286481
+
 ##ESP-12-F:
 ESP-12F WiFi module is developed by Ai-thinker Team. core processor ESP8266 in smaller sizes of the module encapsulates Tensilica L106 integrates industry-leading ultra low power 32-bit MCU micro, with the 16-bit short mode, Clock speed support 80 MHz, 160 MHz, supports the RTOS, integrated Wi-Fi MAC/BB/RF/PA/LNA, on-board antenna. The module supports standard IEEE802.11 b/g/n agreement, complete TCP/IP protocol stack. Users can use the add modules to an existing device networking, or building a separate network controller. ESP8266 is high integration wireless SOCs, designed for space and power constrained mobile platform designers. It provides unsurpassed ability to embed Wi-Fi capabilities within other systems, or to function as a standalone application, with the lowest cost, and minimal space requirement. 
 
