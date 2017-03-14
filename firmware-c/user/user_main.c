@@ -212,7 +212,7 @@ void ICACHE_FLASH_ATTR charrx( uint8_t c )
 }
 
 
-void user_init(void)
+void ICACHE_FLASH_ATTR user_init(void)
 {
 	uart_init(BIT_RATE_115200, BIT_RATE_115200);
 	uart0_sendStr("\001\xff\r\n\r\n\033cesp8266 ws2812 driver\r\n");
@@ -282,4 +282,8 @@ void ExitCritical()
 {
 }
 
+
+uint32 user_rf_cal_sector_set(void) {
+    return 1;
+}
 
